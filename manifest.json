@@ -22,19 +22,10 @@
             "src": "imagenes/app.png",
             "sizes": "96x96",
             "type": "image/png"
-        }
-	],
-	"start_url": "./?mode=pwa",
-	"theme_color": "#00b6aa",
-	"background_color": "#00b6aa",
-	"orientation": "portrait",
-	"display": "fullscreen",
-	"display_override": [
-		"fullscreen"
-	],
-	"lang": "ru",
-	"dir": "ltr",
-	"categories": [
-		"music"
-	]
+  }
+    ],
+    "start_url": "index.html",
+    "display": "standalone",
+    "theme_color": "#00b6aa",
+    "background_color": "#00b6aa"
 }
